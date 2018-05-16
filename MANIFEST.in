@@ -1,0 +1,17 @@
+include LICENCE RELEASE-NOTES AUTHORS
+include README.rst
+include electrum-stak.conf.sample
+include electrum-stak.desktop
+include *.py
+include electrum-stak
+recursive-include lib *.py
+recursive-include gui *.py
+recursive-include plugins *.py
+recursive-include packages *.py
+recursive-include packages cacert.pem
+recursive-include packages lyra2re2_hash*
+include app.fil
+include icons.qrc
+recursive-include icons *
+recursive-include scripts *
+
