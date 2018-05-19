@@ -26,7 +26,7 @@ for repo in electrum-stak electrum-locale electrum-stak-icons; do
 	git checkout master
 	cd ..
     else
-	URL=https://github.com/squbs/$repo.git
+	URL=https://github.com/straks/$repo.git
 	git clone -b master $URL $repo
     fi
 done

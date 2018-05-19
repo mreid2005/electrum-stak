@@ -1,9 +1,9 @@
 #!/bin/bash
 
 # You probably need to update only this link
-ELECTRUM_GIT_URL=git://github.com/squbs/electrum-stak.git
-ELECTRUM_LOCALE_URL=git://github.com/squbs/electrum-locale.git
-ELECTRUM_ICONS_URL=git://github.com/squbs/electrum-stak-icons.git
+ELECTRUM_GIT_URL=git://github.com/straks/electrum-stak.git
+ELECTRUM_LOCALE_URL=git://github.com/straks/electrum-locale.git
+ELECTRUM_ICONS_URL=git://github.com/straks/electrum-stak-icons.git
 BRANCH=master
 NAME_ROOT=electrum-stak
 PYTHON_VERSION=3.6.4
