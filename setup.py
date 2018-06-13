@@ -86,8 +86,8 @@ setup(
     scripts=['electrum-stak'],
     data_files=data_files,
     description="Lightweight STRAKS Wallet",
-    author="Squbs",
-    author_email="squbs@straks.io",
+    author="STRAKS",
+    author_email="support@straks.tech",
     license="MIT Licence",
     url="https://github.com/straks/electrum-stak",
     long_description="""Lightweight STRAKS Wallet"""
